@@ -1,0 +1,1622 @@
+{
+  "room_list": [{
+    "room_name": "大床客房<br \/>(1 KING BED-NONSMOKING)",
+    "room_desc": "32\" LCD TV-WALK IN SHOWER-CLOCK W\/MP3-HBO",
+    "room_features": "COMP HI SPEED-SWEET DREAMS EXPERIENCE BED",
+    "room_type": "NK1",
+    "rates_and_cancellation_policies": [{
+      "rate_plan_code": "SDT18B",
+      "meal_plan_code": "BB",
+      "total_amount_before_tax": "157.85",
+      "total_amount_after_tax": "173.95",
+      "currency": "USD",
+      "rates": [{
+        "check_in": "2018-08-29",
+        "check_out": "2018-08-30",
+        "rooms": "1",
+        "amount_before_tax": {
+          "night_rate": "157.85",
+          "sub_total": "157.85"
+        },
+        "amount_after_tax": {
+          "night_rate": "173.95",
+          "sub_total": "173.95"
+        }
+      }],
+      "cancellation_information": {
+        "support_cancel": "yes",
+        "non_refundable": "yes",
+        "details": [{
+          "datetime": "2018-08-24T00:00:00",
+          "fee_type_value": "173.95",
+          "fee_type": "total_amount",
+          "amount_penalty": "173.95",
+          "policy_code": "CXP"
+        }, {
+          "fee_type_value": "173.95",
+          "fee_type": "total_amount",
+          "amount_penalty": "173.95",
+          "policy_code": "CNS"
+        }],
+        "timezone": "America\/Los_Angeles UTC-08:00"
+      },
+      "room_key": "TksxLi4qU0RUMThCLi4qMTEzMTM0",
+      "nationality": "|",
+      "booking_limit": null,
+      "breakfast": {
+        "include": 1,
+        "count": -1
+      },
+      "meal_plan_desc": "“Bed and Breakfast”, “It includes the stay for all guests in selected room and includes a breakfast per person per day.”"
+    }, {
+      "rate_plan_code": "SDTO1A",
+      "meal_plan_code": "RO",
+      "total_amount_before_tax": "168.43",
+      "total_amount_after_tax": "185.61",
+      "currency": "USD",
+      "rates": [{
+        "check_in": "2018-08-29",
+        "check_out": "2018-08-30",
+        "rooms": "1",
+        "amount_before_tax": {
+          "night_rate": "168.43",
+          "sub_total": "168.43"
+        },
+        "amount_after_tax": {
+          "night_rate": "185.61",
+          "sub_total": "185.61"
+        }
+      }],
+      "cancellation_information": {
+        "support_cancel": "yes",
+        "non_refundable": "yes",
+        "details": [{
+          "datetime": "2018-08-24T00:00:00",
+          "fee_type_value": "185.61",
+          "fee_type": "total_amount",
+          "amount_penalty": "185.61",
+          "policy_code": "CXP"
+        }, {
+          "fee_type_value": "185.61",
+          "fee_type": "total_amount",
+          "amount_penalty": "185.61",
+          "policy_code": "CNS"
+        }],
+        "timezone": "America\/Los_Angeles UTC-08:00"
+      },
+      "room_key": "TksxLi4qU0RUTzFBLi4qMTEzMTM0",
+      "nationality": "|",
+      "booking_limit": null,
+      "breakfast": {
+        "include": 0,
+        "count": 0
+      },
+      "meal_plan_desc": "“Room Only”, “It only includes the stay for all guests in selected room. No meals are included.”"
+    }, {
+      "rate_plan_code": "SDT25C",
+      "meal_plan_code": "RO",
+      "total_amount_before_tax": "143.55",
+      "total_amount_after_tax": "158.19",
+      "currency": "USD",
+      "rates": [{
+        "check_in": "2018-08-29",
+        "check_out": "2018-08-30",
+        "rooms": "1",
+        "amount_before_tax": {
+          "night_rate": "143.55",
+          "sub_total": "143.55"
+        },
+        "amount_after_tax": {
+          "night_rate": "158.19",
+          "sub_total": "158.19"
+        }
+      }],
+      "cancellation_information": {
+        "support_cancel": "yes",
+        "non_refundable": "yes",
+        "details": [{
+          "datetime": "2018-08-24T00:00:00",
+          "fee_type_value": "158.19",
+          "fee_type": "total_amount",
+          "amount_penalty": "158.19",
+          "policy_code": "CXP"
+        }, {
+          "fee_type_value": "158.19",
+          "fee_type": "total_amount",
+          "amount_penalty": "158.19",
+          "policy_code": "CNS"
+        }],
+        "timezone": "America\/Los_Angeles UTC-08:00"
+      },
+      "room_key": "TksxLi4qU0RUMjVDLi4qMTEzMTM0",
+      "nationality": "|",
+      "booking_limit": null,
+      "breakfast": {
+        "include": 0,
+        "count": 0
+      },
+      "meal_plan_desc": "“Room Only”, “It only includes the stay for all guests in selected room. No meals are included.”"
+    }, {
+      "rate_plan_code": "SDT25B",
+      "meal_plan_code": "BB",
+      "total_amount_before_tax": "144.38",
+      "total_amount_after_tax": "159.10",
+      "currency": "USD",
+      "rates": [{
+        "check_in": "2018-08-29",
+        "check_out": "2018-08-30",
+        "rooms": "1",
+        "amount_before_tax": {
+          "night_rate": "144.38",
+          "sub_total": "144.38"
+        },
+        "amount_after_tax": {
+          "night_rate": "159.10",
+          "sub_total": "159.10"
+        }
+      }],
+      "cancellation_information": {
+        "support_cancel": "yes",
+        "non_refundable": "yes",
+        "details": [{
+          "datetime": "2018-08-24T00:00:00",
+          "fee_type_value": "159.10",
+          "fee_type": "total_amount",
+          "amount_penalty": "159.10",
+          "policy_code": "CXP"
+        }, {
+          "fee_type_value": "159.10",
+          "fee_type": "total_amount",
+          "amount_penalty": "159.10",
+          "policy_code": "CNS"
+        }],
+        "timezone": "America\/Los_Angeles UTC-08:00"
+      },
+      "room_key": "TksxLi4qU0RUMjVCLi4qMTEzMTM0",
+      "nationality": "|",
+      "booking_limit": null,
+      "breakfast": {
+        "include": 1,
+        "count": -1
+      },
+      "meal_plan_desc": "“Bed and Breakfast”, “It includes the stay for all guests in selected room and includes a breakfast per person per day.”"
+    }, {
+      "rate_plan_code": "SDT18C",
+      "meal_plan_code": "RO",
+      "total_amount_before_tax": "156.95",
+      "total_amount_after_tax": "172.95",
+      "currency": "USD",
+      "rates": [{
+        "check_in": "2018-08-29",
+        "check_out": "2018-08-30",
+        "rooms": "1",
+        "amount_before_tax": {
+          "night_rate": "156.95",
+          "sub_total": "156.95"
+        },
+        "amount_after_tax": {
+          "night_rate": "172.95",
+          "sub_total": "172.95"
+        }
+      }],
+      "cancellation_information": {
+        "support_cancel": "yes",
+        "non_refundable": "yes",
+        "details": [{
+          "datetime": "2018-08-24T00:00:00",
+          "fee_type_value": "172.95",
+          "fee_type": "total_amount",
+          "amount_penalty": "172.95",
+          "policy_code": "CXP"
+        }, {
+          "fee_type_value": "172.95",
+          "fee_type": "total_amount",
+          "amount_penalty": "172.95",
+          "policy_code": "CNS"
+        }],
+        "timezone": "America\/Los_Angeles UTC-08:00"
+      },
+      "room_key": "TksxLi4qU0RUMThDLi4qMTEzMTM0",
+      "nationality": "|",
+      "booking_limit": null,
+      "breakfast": {
+        "include": 0,
+        "count": 0
+      },
+      "meal_plan_desc": "“Room Only”, “It only includes the stay for all guests in selected room. No meals are included.”"
+    }],
+    "bed_info": [{
+      "K": 1
+    }],
+    "nonsmoking": 1,
+    "occupancy": null,
+    "amenities": {
+      "1": 1,
+      "14": 1
+    },
+    "room_pics": [],
+    "room_size": null,
+    "rate_supplier_id": 1058
+  }, {
+    "room_name": "客房<br \/>(2 QUEEN BEDS-STANDARD NONSMOKING)",
+    "room_desc": "SITTING AREA-32IN LCD-WALKIN SHWR-CLOCK W\/MP3",
+    "room_features": "COMP HI SPEED-SWEET DREAMS EXPERIENCE BED",
+    "room_type": "NQ2",
+    "rates_and_cancellation_policies": [{
+      "rate_plan_code": "SDT25C",
+      "meal_plan_code": "RO",
+      "total_amount_before_tax": "135.30",
+      "total_amount_after_tax": "149.11",
+      "currency": "USD",
+      "rates": [{
+        "check_in": "2018-08-29",
+        "check_out": "2018-08-30",
+        "rooms": "1",
+        "amount_before_tax": {
+          "night_rate": "135.30",
+          "sub_total": "135.30"
+        },
+        "amount_after_tax": {
+          "night_rate": "149.11",
+          "sub_total": "149.11"
+        }
+      }],
+      "cancellation_information": {
+        "support_cancel": "yes",
+        "non_refundable": "yes",
+        "details": [{
+          "datetime": "2018-08-24T00:00:00",
+          "fee_type_value": "149.11",
+          "fee_type": "total_amount",
+          "amount_penalty": "149.11",
+          "policy_code": "CXP"
+        }, {
+          "fee_type_value": "149.11",
+          "fee_type": "total_amount",
+          "amount_penalty": "149.11",
+          "policy_code": "CNS"
+        }],
+        "timezone": "America\/Los_Angeles UTC-08:00"
+      },
+      "room_key": "TlEyLi4qU0RUMjVDLi4qMTEzMTM0",
+      "nationality": "|",
+      "booking_limit": null,
+      "breakfast": {
+        "include": 0,
+        "count": 0
+      },
+      "meal_plan_desc": "“Room Only”, “It only includes the stay for all guests in selected room. No meals are included.”"
+    }, {
+      "rate_plan_code": "SDT25B",
+      "meal_plan_code": "BB",
+      "total_amount_before_tax": "136.13",
+      "total_amount_after_tax": "150.01",
+      "currency": "USD",
+      "rates": [{
+        "check_in": "2018-08-29",
+        "check_out": "2018-08-30",
+        "rooms": "1",
+        "amount_before_tax": {
+          "night_rate": "136.13",
+          "sub_total": "136.13"
+        },
+        "amount_after_tax": {
+          "night_rate": "150.01",
+          "sub_total": "150.01"
+        }
+      }],
+      "cancellation_information": {
+        "support_cancel": "yes",
+        "non_refundable": "yes",
+        "details": [{
+          "datetime": "2018-08-24T00:00:00",
+          "fee_type_value": "150.01",
+          "fee_type": "total_amount",
+          "amount_penalty": "150.01",
+          "policy_code": "CXP"
+        }, {
+          "fee_type_value": "150.01",
+          "fee_type": "total_amount",
+          "amount_penalty": "150.01",
+          "policy_code": "CNS"
+        }],
+        "timezone": "America\/Los_Angeles UTC-08:00"
+      },
+      "room_key": "TlEyLi4qU0RUMjVCLi4qMTEzMTM0",
+      "nationality": "|",
+      "booking_limit": null,
+      "breakfast": {
+        "include": 1,
+        "count": -1
+      },
+      "meal_plan_desc": "“Bed and Breakfast”, “It includes the stay for all guests in selected room and includes a breakfast per person per day.”"
+    }, {
+      "rate_plan_code": "SDT18B",
+      "meal_plan_code": "BB",
+      "total_amount_before_tax": "148.83",
+      "total_amount_after_tax": "164.01",
+      "currency": "USD",
+      "rates": [{
+        "check_in": "2018-08-29",
+        "check_out": "2018-08-30",
+        "rooms": "1",
+        "amount_before_tax": {
+          "night_rate": "148.83",
+          "sub_total": "148.83"
+        },
+        "amount_after_tax": {
+          "night_rate": "164.01",
+          "sub_total": "164.01"
+        }
+      }],
+      "cancellation_information": {
+        "support_cancel": "yes",
+        "non_refundable": "yes",
+        "details": [{
+          "datetime": "2018-08-24T00:00:00",
+          "fee_type_value": "164.01",
+          "fee_type": "total_amount",
+          "amount_penalty": "164.01",
+          "policy_code": "CXP"
+        }, {
+          "fee_type_value": "164.01",
+          "fee_type": "total_amount",
+          "amount_penalty": "164.01",
+          "policy_code": "CNS"
+        }],
+        "timezone": "America\/Los_Angeles UTC-08:00"
+      },
+      "room_key": "TlEyLi4qU0RUMThCLi4qMTEzMTM0",
+      "nationality": "|",
+      "booking_limit": null,
+      "breakfast": {
+        "include": 1,
+        "count": -1
+      },
+      "meal_plan_desc": "“Bed and Breakfast”, “It includes the stay for all guests in selected room and includes a breakfast per person per day.”"
+    }, {
+      "rate_plan_code": "SDT18C",
+      "meal_plan_code": "RO",
+      "total_amount_before_tax": "147.93",
+      "total_amount_after_tax": "163.02",
+      "currency": "USD",
+      "rates": [{
+        "check_in": "2018-08-29",
+        "check_out": "2018-08-30",
+        "rooms": "1",
+        "amount_before_tax": {
+          "night_rate": "147.93",
+          "sub_total": "147.93"
+        },
+        "amount_after_tax": {
+          "night_rate": "163.02",
+          "sub_total": "163.02"
+        }
+      }],
+      "cancellation_information": {
+        "support_cancel": "yes",
+        "non_refundable": "yes",
+        "details": [{
+          "datetime": "2018-08-24T00:00:00",
+          "fee_type_value": "163.02",
+          "fee_type": "total_amount",
+          "amount_penalty": "163.02",
+          "policy_code": "CXP"
+        }, {
+          "fee_type_value": "163.02",
+          "fee_type": "total_amount",
+          "amount_penalty": "163.02",
+          "policy_code": "CNS"
+        }],
+        "timezone": "America\/Los_Angeles UTC-08:00"
+      },
+      "room_key": "TlEyLi4qU0RUMThDLi4qMTEzMTM0",
+      "nationality": "|",
+      "booking_limit": null,
+      "breakfast": {
+        "include": 0,
+        "count": 0
+      },
+      "meal_plan_desc": "“Room Only”, “It only includes the stay for all guests in selected room. No meals are included.”"
+    }, {
+      "rate_plan_code": "SDTO1A",
+      "meal_plan_code": "RO",
+      "total_amount_before_tax": "158.75",
+      "total_amount_after_tax": "174.94",
+      "currency": "USD",
+      "rates": [{
+        "check_in": "2018-08-29",
+        "check_out": "2018-08-30",
+        "rooms": "1",
+        "amount_before_tax": {
+          "night_rate": "158.75",
+          "sub_total": "158.75"
+        },
+        "amount_after_tax": {
+          "night_rate": "174.94",
+          "sub_total": "174.94"
+        }
+      }],
+      "cancellation_information": {
+        "support_cancel": "yes",
+        "non_refundable": "yes",
+        "details": [{
+          "datetime": "2018-08-24T00:00:00",
+          "fee_type_value": "174.94",
+          "fee_type": "total_amount",
+          "amount_penalty": "174.94",
+          "policy_code": "CXP"
+        }, {
+          "fee_type_value": "174.94",
+          "fee_type": "total_amount",
+          "amount_penalty": "174.94",
+          "policy_code": "CNS"
+        }],
+        "timezone": "America\/Los_Angeles UTC-08:00"
+      },
+      "room_key": "TlEyLi4qU0RUTzFBLi4qMTEzMTM0",
+      "nationality": "|",
+      "booking_limit": null,
+      "breakfast": {
+        "include": 0,
+        "count": 0
+      },
+      "meal_plan_desc": "“Room Only”, “It only includes the stay for all guests in selected room. No meals are included.”"
+    }],
+    "bed_info": [{
+      "Q": 2
+    }],
+    "nonsmoking": 1,
+    "occupancy": null,
+    "amenities": {
+      "1": 1
+    },
+    "room_pics": [],
+    "room_size": null,
+    "rate_supplier_id": 1058
+  }, {
+    "room_name": "浴缸客房<br \/>(1 KING BED-BATHNG TUB-RAIN SHOWER-NONSMOKING)",
+    "room_desc": "32\" LCD TV-CLOCK W\/MP3-SATELLITE WITH HBO",
+    "room_features": "COMP HI SPEED-SWEET DREAMS EXPERIENCE BED",
+    "room_type": "NK1DW",
+    "rates_and_cancellation_policies": [{
+      "rate_plan_code": "SDT25C",
+      "meal_plan_code": "RO",
+      "total_amount_before_tax": "151.80",
+      "total_amount_after_tax": "167.29",
+      "currency": "USD",
+      "rates": [{
+        "check_in": "2018-08-29",
+        "check_out": "2018-08-30",
+        "rooms": "1",
+        "amount_before_tax": {
+          "night_rate": "151.80",
+          "sub_total": "151.80"
+        },
+        "amount_after_tax": {
+          "night_rate": "167.29",
+          "sub_total": "167.29"
+        }
+      }],
+      "cancellation_information": {
+        "support_cancel": "yes",
+        "non_refundable": "yes",
+        "details": [{
+          "datetime": "2018-08-24T00:00:00",
+          "fee_type_value": "167.29",
+          "fee_type": "total_amount",
+          "amount_penalty": "167.29",
+          "policy_code": "CXP"
+        }, {
+          "fee_type_value": "167.29",
+          "fee_type": "total_amount",
+          "amount_penalty": "167.29",
+          "policy_code": "CNS"
+        }],
+        "timezone": "America\/Los_Angeles UTC-08:00"
+      },
+      "room_key": "TksxRFcuLipTRFQyNUMuLioxMTMxMzQ=",
+      "nationality": "|",
+      "booking_limit": null,
+      "breakfast": {
+        "include": 0,
+        "count": 0
+      },
+      "meal_plan_desc": "“Room Only”, “It only includes the stay for all guests in selected room. No meals are included.”"
+    }, {
+      "rate_plan_code": "SDT18C",
+      "meal_plan_code": "RO",
+      "total_amount_before_tax": "165.97",
+      "total_amount_after_tax": "182.90",
+      "currency": "USD",
+      "rates": [{
+        "check_in": "2018-08-29",
+        "check_out": "2018-08-30",
+        "rooms": "1",
+        "amount_before_tax": {
+          "night_rate": "165.97",
+          "sub_total": "165.97"
+        },
+        "amount_after_tax": {
+          "night_rate": "182.90",
+          "sub_total": "182.90"
+        }
+      }],
+      "cancellation_information": {
+        "support_cancel": "yes",
+        "non_refundable": "yes",
+        "details": [{
+          "datetime": "2018-08-24T00:00:00",
+          "fee_type_value": "182.90",
+          "fee_type": "total_amount",
+          "amount_penalty": "182.90",
+          "policy_code": "CXP"
+        }, {
+          "fee_type_value": "182.90",
+          "fee_type": "total_amount",
+          "amount_penalty": "182.90",
+          "policy_code": "CNS"
+        }],
+        "timezone": "America\/Los_Angeles UTC-08:00"
+      },
+      "room_key": "TksxRFcuLipTRFQxOEMuLioxMTMxMzQ=",
+      "nationality": "|",
+      "booking_limit": null,
+      "breakfast": {
+        "include": 0,
+        "count": 0
+      },
+      "meal_plan_desc": "“Room Only”, “It only includes the stay for all guests in selected room. No meals are included.”"
+    }, {
+      "rate_plan_code": "SDTO1A",
+      "meal_plan_code": "RO",
+      "total_amount_before_tax": "178.11",
+      "total_amount_after_tax": "196.28",
+      "currency": "USD",
+      "rates": [{
+        "check_in": "2018-08-29",
+        "check_out": "2018-08-30",
+        "rooms": "1",
+        "amount_before_tax": {
+          "night_rate": "178.11",
+          "sub_total": "178.11"
+        },
+        "amount_after_tax": {
+          "night_rate": "196.28",
+          "sub_total": "196.28"
+        }
+      }],
+      "cancellation_information": {
+        "support_cancel": "yes",
+        "non_refundable": "yes",
+        "details": [{
+          "datetime": "2018-08-24T00:00:00",
+          "fee_type_value": "196.28",
+          "fee_type": "total_amount",
+          "amount_penalty": "196.28",
+          "policy_code": "CXP"
+        }, {
+          "fee_type_value": "196.28",
+          "fee_type": "total_amount",
+          "amount_penalty": "196.28",
+          "policy_code": "CNS"
+        }],
+        "timezone": "America\/Los_Angeles UTC-08:00"
+      },
+      "room_key": "TksxRFcuLipTRFRPMUEuLioxMTMxMzQ=",
+      "nationality": "|",
+      "booking_limit": null,
+      "breakfast": {
+        "include": 0,
+        "count": 0
+      },
+      "meal_plan_desc": "“Room Only”, “It only includes the stay for all guests in selected room. No meals are included.”"
+    }, {
+      "rate_plan_code": "SDT18B",
+      "meal_plan_code": "BB",
+      "total_amount_before_tax": "166.87",
+      "total_amount_after_tax": "183.89",
+      "currency": "USD",
+      "rates": [{
+        "check_in": "2018-08-29",
+        "check_out": "2018-08-30",
+        "rooms": "1",
+        "amount_before_tax": {
+          "night_rate": "166.87",
+          "sub_total": "166.87"
+        },
+        "amount_after_tax": {
+          "night_rate": "183.89",
+          "sub_total": "183.89"
+        }
+      }],
+      "cancellation_information": {
+        "support_cancel": "yes",
+        "non_refundable": "yes",
+        "details": [{
+          "datetime": "2018-08-24T00:00:00",
+          "fee_type_value": "183.89",
+          "fee_type": "total_amount",
+          "amount_penalty": "183.89",
+          "policy_code": "CXP"
+        }, {
+          "fee_type_value": "183.89",
+          "fee_type": "total_amount",
+          "amount_penalty": "183.89",
+          "policy_code": "CNS"
+        }],
+        "timezone": "America\/Los_Angeles UTC-08:00"
+      },
+      "room_key": "TksxRFcuLipTRFQxOEIuLioxMTMxMzQ=",
+      "nationality": "|",
+      "booking_limit": null,
+      "breakfast": {
+        "include": 1,
+        "count": -1
+      },
+      "meal_plan_desc": "“Bed and Breakfast”, “It includes the stay for all guests in selected room and includes a breakfast per person per day.”"
+    }, {
+      "rate_plan_code": "SDT25B",
+      "meal_plan_code": "BB",
+      "total_amount_before_tax": "152.63",
+      "total_amount_after_tax": "168.19",
+      "currency": "USD",
+      "rates": [{
+        "check_in": "2018-08-29",
+        "check_out": "2018-08-30",
+        "rooms": "1",
+        "amount_before_tax": {
+          "night_rate": "152.63",
+          "sub_total": "152.63"
+        },
+        "amount_after_tax": {
+          "night_rate": "168.19",
+          "sub_total": "168.19"
+        }
+      }],
+      "cancellation_information": {
+        "support_cancel": "yes",
+        "non_refundable": "yes",
+        "details": [{
+          "datetime": "2018-08-24T00:00:00",
+          "fee_type_value": "168.19",
+          "fee_type": "total_amount",
+          "amount_penalty": "168.19",
+          "policy_code": "CXP"
+        }, {
+          "fee_type_value": "168.19",
+          "fee_type": "total_amount",
+          "amount_penalty": "168.19",
+          "policy_code": "CNS"
+        }],
+        "timezone": "America\/Los_Angeles UTC-08:00"
+      },
+      "room_key": "TksxRFcuLipTRFQyNUIuLioxMTMxMzQ=",
+      "nationality": "|",
+      "booking_limit": null,
+      "breakfast": {
+        "include": 1,
+        "count": -1
+      },
+      "meal_plan_desc": "“Bed and Breakfast”, “It includes the stay for all guests in selected room and includes a breakfast per person per day.”"
+    }],
+    "bed_info": [{
+      "K": 1
+    }],
+    "nonsmoking": 1,
+    "occupancy": null,
+    "amenities": {
+      "1": 1,
+      "14": 1
+    },
+    "room_pics": [],
+    "room_size": null,
+    "rate_supplier_id": 1058
+  }, {
+    "room_name": "无障碍浴缸客房<br \/>(1 KING MOBILITY ACCESSIBLE W\/ BATHTUB NO SMOK)",
+    "room_desc": "32\" LCD TV-CLOCK W\/MP3-SATELLITE WITH HBO",
+    "room_features": "COMP HI SPEED-SWEET DREAMS EXPERIENCE BED",
+    "room_type": "NKRQA",
+    "rates_and_cancellation_policies": [{
+      "rate_plan_code": "SDT25B",
+      "meal_plan_code": "BB",
+      "total_amount_before_tax": "144.38",
+      "total_amount_after_tax": "159.10",
+      "currency": "USD",
+      "rates": [{
+        "check_in": "2018-08-29",
+        "check_out": "2018-08-30",
+        "rooms": "1",
+        "amount_before_tax": {
+          "night_rate": "144.38",
+          "sub_total": "144.38"
+        },
+        "amount_after_tax": {
+          "night_rate": "159.10",
+          "sub_total": "159.10"
+        }
+      }],
+      "cancellation_information": {
+        "support_cancel": "yes",
+        "non_refundable": "yes",
+        "details": [{
+          "datetime": "2018-08-24T00:00:00",
+          "fee_type_value": "159.10",
+          "fee_type": "total_amount",
+          "amount_penalty": "159.10",
+          "policy_code": "CXP"
+        }, {
+          "fee_type_value": "159.10",
+          "fee_type": "total_amount",
+          "amount_penalty": "159.10",
+          "policy_code": "CNS"
+        }],
+        "timezone": "America\/Los_Angeles UTC-08:00"
+      },
+      "room_key": "TktSUUEuLipTRFQyNUIuLioxMTMxMzQ=",
+      "nationality": "|",
+      "booking_limit": null,
+      "breakfast": {
+        "include": 1,
+        "count": -1
+      },
+      "meal_plan_desc": "“Bed and Breakfast”, “It includes the stay for all guests in selected room and includes a breakfast per person per day.”"
+    }, {
+      "rate_plan_code": "SDTO1A",
+      "meal_plan_code": "RO",
+      "total_amount_before_tax": "168.43",
+      "total_amount_after_tax": "185.61",
+      "currency": "USD",
+      "rates": [{
+        "check_in": "2018-08-29",
+        "check_out": "2018-08-30",
+        "rooms": "1",
+        "amount_before_tax": {
+          "night_rate": "168.43",
+          "sub_total": "168.43"
+        },
+        "amount_after_tax": {
+          "night_rate": "185.61",
+          "sub_total": "185.61"
+        }
+      }],
+      "cancellation_information": {
+        "support_cancel": "yes",
+        "non_refundable": "yes",
+        "details": [{
+          "datetime": "2018-08-24T00:00:00",
+          "fee_type_value": "185.61",
+          "fee_type": "total_amount",
+          "amount_penalty": "185.61",
+          "policy_code": "CXP"
+        }, {
+          "fee_type_value": "185.61",
+          "fee_type": "total_amount",
+          "amount_penalty": "185.61",
+          "policy_code": "CNS"
+        }],
+        "timezone": "America\/Los_Angeles UTC-08:00"
+      },
+      "room_key": "TktSUUEuLipTRFRPMUEuLioxMTMxMzQ=",
+      "nationality": "|",
+      "booking_limit": null,
+      "breakfast": {
+        "include": 0,
+        "count": 0
+      },
+      "meal_plan_desc": "“Room Only”, “It only includes the stay for all guests in selected room. No meals are included.”"
+    }, {
+      "rate_plan_code": "SDT18C",
+      "meal_plan_code": "RO",
+      "total_amount_before_tax": "156.95",
+      "total_amount_after_tax": "172.95",
+      "currency": "USD",
+      "rates": [{
+        "check_in": "2018-08-29",
+        "check_out": "2018-08-30",
+        "rooms": "1",
+        "amount_before_tax": {
+          "night_rate": "156.95",
+          "sub_total": "156.95"
+        },
+        "amount_after_tax": {
+          "night_rate": "172.95",
+          "sub_total": "172.95"
+        }
+      }],
+      "cancellation_information": {
+        "support_cancel": "yes",
+        "non_refundable": "yes",
+        "details": [{
+          "datetime": "2018-08-24T00:00:00",
+          "fee_type_value": "172.95",
+          "fee_type": "total_amount",
+          "amount_penalty": "172.95",
+          "policy_code": "CXP"
+        }, {
+          "fee_type_value": "172.95",
+          "fee_type": "total_amount",
+          "amount_penalty": "172.95",
+          "policy_code": "CNS"
+        }],
+        "timezone": "America\/Los_Angeles UTC-08:00"
+      },
+      "room_key": "TktSUUEuLipTRFQxOEMuLioxMTMxMzQ=",
+      "nationality": "|",
+      "booking_limit": null,
+      "breakfast": {
+        "include": 0,
+        "count": 0
+      },
+      "meal_plan_desc": "“Room Only”, “It only includes the stay for all guests in selected room. No meals are included.”"
+    }, {
+      "rate_plan_code": "SDT18B",
+      "meal_plan_code": "BB",
+      "total_amount_before_tax": "157.85",
+      "total_amount_after_tax": "173.95",
+      "currency": "USD",
+      "rates": [{
+        "check_in": "2018-08-29",
+        "check_out": "2018-08-30",
+        "rooms": "1",
+        "amount_before_tax": {
+          "night_rate": "157.85",
+          "sub_total": "157.85"
+        },
+        "amount_after_tax": {
+          "night_rate": "173.95",
+          "sub_total": "173.95"
+        }
+      }],
+      "cancellation_information": {
+        "support_cancel": "yes",
+        "non_refundable": "yes",
+        "details": [{
+          "datetime": "2018-08-24T00:00:00",
+          "fee_type_value": "173.95",
+          "fee_type": "total_amount",
+          "amount_penalty": "173.95",
+          "policy_code": "CXP"
+        }, {
+          "fee_type_value": "173.95",
+          "fee_type": "total_amount",
+          "amount_penalty": "173.95",
+          "policy_code": "CNS"
+        }],
+        "timezone": "America\/Los_Angeles UTC-08:00"
+      },
+      "room_key": "TktSUUEuLipTRFQxOEIuLioxMTMxMzQ=",
+      "nationality": "|",
+      "booking_limit": null,
+      "breakfast": {
+        "include": 1,
+        "count": -1
+      },
+      "meal_plan_desc": "“Bed and Breakfast”, “It includes the stay for all guests in selected room and includes a breakfast per person per day.”"
+    }, {
+      "rate_plan_code": "SDT25C",
+      "meal_plan_code": "RO",
+      "total_amount_before_tax": "143.55",
+      "total_amount_after_tax": "158.19",
+      "currency": "USD",
+      "rates": [{
+        "check_in": "2018-08-29",
+        "check_out": "2018-08-30",
+        "rooms": "1",
+        "amount_before_tax": {
+          "night_rate": "143.55",
+          "sub_total": "143.55"
+        },
+        "amount_after_tax": {
+          "night_rate": "158.19",
+          "sub_total": "158.19"
+        }
+      }],
+      "cancellation_information": {
+        "support_cancel": "yes",
+        "non_refundable": "yes",
+        "details": [{
+          "datetime": "2018-08-24T00:00:00",
+          "fee_type_value": "158.19",
+          "fee_type": "total_amount",
+          "amount_penalty": "158.19",
+          "policy_code": "CXP"
+        }, {
+          "fee_type_value": "158.19",
+          "fee_type": "total_amount",
+          "amount_penalty": "158.19",
+          "policy_code": "CNS"
+        }],
+        "timezone": "America\/Los_Angeles UTC-08:00"
+      },
+      "room_key": "TktSUUEuLipTRFQyNUMuLioxMTMxMzQ=",
+      "nationality": "|",
+      "booking_limit": null,
+      "breakfast": {
+        "include": 0,
+        "count": 0
+      },
+      "meal_plan_desc": "“Room Only”, “It only includes the stay for all guests in selected room. No meals are included.”"
+    }],
+    "bed_info": [{
+      "K": 1
+    }],
+    "nonsmoking": 1,
+    "occupancy": null,
+    "amenities": {
+      "1": 1,
+      "14": 1
+    },
+    "room_pics": [],
+    "room_size": null,
+    "rate_supplier_id": 1058
+  }, {
+    "room_name": "客房<br \/>(Double Classic Two Queen Beds)",
+    "room_desc": "",
+    "room_features": "",
+    "room_type": "0",
+    "rates_and_cancellation_policies": [{
+      "rate_plan_code": "",
+      "meal_plan_code": "1",
+      "total_amount_before_tax": "142.76",
+      "total_amount_after_tax": "163.90",
+      "currency": "USD",
+      "rates": [{
+        "check_in": "2018-08-29",
+        "check_out": "2018-08-30",
+        "rooms": 1,
+        "amount_before_tax": {
+          "night_rate": "142.76",
+          "sub_total": "142.76"
+        },
+        "amount_after_tax": {
+          "night_rate": "163.90",
+          "sub_total": "163.90"
+        }
+      }],
+      "cancellation_information": {
+        "details": [],
+        "timezone": "America\/Los_Angeles UTC-08:00"
+      },
+      "room_key": "MC4uKlY4WVhFSjhXV2lMejBUYXE4cWY1NnZ0Si9BMW55bkM3RnpqWW9WT1Rvdk0wR3gxRlNFdVFXS0w4aXpDTG1Qbm1PU0lPcW5hVGc0VUg1b2I2cmIwZ1lqcXEwOWdMMDNHSUpJdnZGbTFzN2Z5elU4eCs3TkJLa3ozNWl4QXgzaVVSRm5GdTgyS1Iwc2JXd0xyNlVFZXNjQ2FqMFZnMk54VitYMVhPelAzWjAyVUd1ODhESCtJS0JVOFZiUEJ4Z2JXbHdsRFRETjhieW12UGlQRnhLM3I2dDBPemlpSitXSitxN0J6WWFOYy9Ra0VWV2JNdGpkLy9Ldz09Li4qODQ0MzUxLi4qMS4uKjE2NDgwNDEuLioxNTU1",
+      "nationality": "|",
+      "booking_limit": null,
+      "breakfast": {
+        "include": 0,
+        "count": 0
+      },
+      "meal_plan_desc": "“Room Only”, “It only includes the stay for all guests in selected room. No meals are included.”"
+    }],
+    "bed_info": null,
+    "nonsmoking": null,
+    "occupancy": null,
+    "amenities": null,
+    "room_pics": [],
+    "room_size": null,
+    "rate_supplier_id": 1500
+  }, {
+    "room_name": "客房<br \/>(Double Classic Two Queen Beds)",
+    "room_desc": "",
+    "room_features": "",
+    "room_type": "0",
+    "rates_and_cancellation_policies": [{
+      "rate_plan_code": "",
+      "meal_plan_code": "3",
+      "total_amount_before_tax": "145.63",
+      "total_amount_after_tax": "167.20",
+      "currency": "USD",
+      "rates": [{
+        "check_in": "2018-08-29",
+        "check_out": "2018-08-30",
+        "rooms": 1,
+        "amount_before_tax": {
+          "night_rate": "145.63",
+          "sub_total": "145.63"
+        },
+        "amount_after_tax": {
+          "night_rate": "167.20",
+          "sub_total": "167.20"
+        }
+      }],
+      "cancellation_information": {
+        "details": [],
+        "timezone": "America\/Los_Angeles UTC-08:00"
+      },
+      "room_key": "MC4uKlY4WVhFSjhXV2lMejBUYXE4cWY1NnZ0Si9BMW55bkM3cTlNWXBRaElGRzFBV2xlcFB6eXZRTTdnODJRZTdXRDNUVEtVMXk3Y1FuWG01SXFYMnRFT1drY0xQQ2RGS0NTblZCOEFLZUI2Titjdkh3TXdRQURSNFdiYVR6WDFxMWt1T2tDZENmN1BQcDRlSWJEbHVPUWNNZ0VyRGdndXF4WmtZRHNEaVBVMUpyQkpyVHVZUmlrYmR5NHBkNVFIak1wWGpKRDIzNUxLaXcvME8wRXF2NE9zV2JZVUJ0aE9mMEE1SGxxYzZ2YTNXcGhQVk9MS1hFWjhVUT09Li4qODQ0MzUxLi4qMy4uKjE2NDgwNDEuLioxNTU1",
+      "nationality": "|",
+      "booking_limit": null,
+      "breakfast": {
+        "include": 1,
+        "count": -1
+      },
+      "meal_plan_desc": "breakfast and bed"
+    }],
+    "bed_info": null,
+    "nonsmoking": null,
+    "occupancy": null,
+    "amenities": null,
+    "room_pics": [],
+    "room_size": null,
+    "rate_supplier_id": 1500
+  }, {
+    "room_name": "客房<br \/>(Double Two Queen Beds)",
+    "room_desc": "",
+    "room_features": "",
+    "room_type": "0",
+    "rates_and_cancellation_policies": [{
+      "rate_plan_code": "",
+      "meal_plan_code": "1",
+      "total_amount_before_tax": "149.47",
+      "total_amount_after_tax": "171.60",
+      "currency": "USD",
+      "rates": [{
+        "check_in": "2018-08-29",
+        "check_out": "2018-08-30",
+        "rooms": 1,
+        "amount_before_tax": {
+          "night_rate": "149.47",
+          "sub_total": "149.47"
+        },
+        "amount_after_tax": {
+          "night_rate": "171.60",
+          "sub_total": "171.60"
+        }
+      }],
+      "cancellation_information": {
+        "details": [],
+        "timezone": "America\/Los_Angeles UTC-08:00"
+      },
+      "room_key": "MC4uKlY4WVhFSjhXV2lMejBUYXE4cWY1NnZ0Si9BMW55bkM3K2UrQWZpTkdoRHJuWHd1UVI1NVk3K1JuczZqbE5DTWYzS2tqRnRhaXhteklTdmdncTY4Y281VWpodGhjRXI5Q0VMd3NhVGg2ZmdPclFsM1ZGS1Izd2xIRHZzVm5CTitYMTBMbXltSFlwV1E0eGpDcGt0NEttVzRtMDZhTXNKNmdCUmZRbXJhQ0R2c2ZKWlBpc2s2Z2FXY2crY1RJMVZybjU4MzY4d1NzUHJFVkIwOWxrMC9OSlhBTDloNlUrV2Y3VlloU2loS0lzNGM9Li4qODQ0MzUxLi4qMS4uKjE2NDgwNDEuLioxNTU1",
+      "nationality": "|",
+      "booking_limit": null,
+      "breakfast": {
+        "include": 0,
+        "count": 0
+      },
+      "meal_plan_desc": "“Room Only”, “It only includes the stay for all guests in selected room. No meals are included.”"
+    }],
+    "bed_info": null,
+    "nonsmoking": null,
+    "occupancy": null,
+    "amenities": null,
+    "room_pics": [],
+    "room_size": null,
+    "rate_supplier_id": 1500
+  }, {
+    "room_name": "客房<br \/>(Double Two Queen Beds)",
+    "room_desc": "",
+    "room_features": "",
+    "room_type": "0",
+    "rates_and_cancellation_policies": [{
+      "rate_plan_code": "",
+      "meal_plan_code": "3",
+      "total_amount_before_tax": "150.43",
+      "total_amount_after_tax": "172.70",
+      "currency": "USD",
+      "rates": [{
+        "check_in": "2018-08-29",
+        "check_out": "2018-08-30",
+        "rooms": 1,
+        "amount_before_tax": {
+          "night_rate": "150.43",
+          "sub_total": "150.43"
+        },
+        "amount_after_tax": {
+          "night_rate": "172.70",
+          "sub_total": "172.70"
+        }
+      }],
+      "cancellation_information": {
+        "details": [],
+        "timezone": "America\/Los_Angeles UTC-08:00"
+      },
+      "room_key": "MC4uKlY4WVhFSjhXV2lMejBUYXE4cWY1NnZ0Si9BMW55bkM3RThKRWRzYVBiNjJ5R0ZTRlZWRzhCV3N3ZUhoQTBScU1FSzArOUJxM1VqQkxOZlVSUlFVcW40amVpQkIxSjRuOGZ0d3lzVjNuaXM2TEFMMk5vMkgwdUh2Slo2bDYzN1dENENUVC80NnhOaC9SOGtUSThIK0NiVThDUEkyVzdMdjZkQ2V2b0tvcmk2WExETnFYVTRLc3dpbHFWeXo4R1FLMlFhd2tKZ1hFblNNaWczSXJSdEVVWUQ5VnJFbC85aUZUWis5SWVLNTBjTEk9Li4qODQ0MzUxLi4qMy4uKjE2NDgwNDEuLioxNTU1",
+      "nationality": "|",
+      "booking_limit": null,
+      "breakfast": {
+        "include": 1,
+        "count": -1
+      },
+      "meal_plan_desc": "breakfast and bed"
+    }],
+    "bed_info": null,
+    "nonsmoking": null,
+    "occupancy": null,
+    "amenities": null,
+    "room_pics": [],
+    "room_size": null,
+    "rate_supplier_id": 1500
+  }, {
+    "room_name": "客房<br \/>(Double King Bed Non Smoking)",
+    "room_desc": "",
+    "room_features": "",
+    "room_type": "0",
+    "rates_and_cancellation_policies": [{
+      "rate_plan_code": "",
+      "meal_plan_code": "1",
+      "total_amount_before_tax": "151.38",
+      "total_amount_after_tax": "173.80",
+      "currency": "USD",
+      "rates": [{
+        "check_in": "2018-08-29",
+        "check_out": "2018-08-30",
+        "rooms": 1,
+        "amount_before_tax": {
+          "night_rate": "151.38",
+          "sub_total": "151.38"
+        },
+        "amount_after_tax": {
+          "night_rate": "173.80",
+          "sub_total": "173.80"
+        }
+      }],
+      "cancellation_information": {
+        "details": [],
+        "timezone": "America\/Los_Angeles UTC-08:00"
+      },
+      "room_key": "MC4uKlY4WVhFSjhXV2lMejBUYXE4cWY1NnZ0Si9BMW55bkM3NTd4RmR5REYyUmlYNFFQbXRRSldESW5ycTdPV2FuZWxpdC8wYzFuSHBkVlZUcU00c045bStmbUl2VXZJMSs3UkFhYlREN0lESGxWbEFPNzNrMnJlN21uQTFsb2xNNEY4ekVsWCtseE5pRElQZ1VBUklULy9Td1QwVGl3ZmZhUVJQczQ1aXErc2U4dVNncGtHYktXMHBvb3RNL1Y5V1RMakl4OHJRUnZ1Q2dpbTNNZE94aFhEbUZBN282NnZTY3V0ejdwWGExNlVESXFpRXZuSFR0WEpzZz09Li4qODQ0MzUxLi4qMS4uKjE2NDgwNDEuLioxNTU1",
+      "nationality": "|",
+      "booking_limit": null,
+      "breakfast": {
+        "include": 0,
+        "count": 0
+      },
+      "meal_plan_desc": "“Room Only”, “It only includes the stay for all guests in selected room. No meals are included.”"
+    }],
+    "bed_info": null,
+    "nonsmoking": null,
+    "occupancy": null,
+    "amenities": null,
+    "room_pics": [],
+    "room_size": null,
+    "rate_supplier_id": 1500
+  }, {
+    "room_name": "客房<br \/>(Double Accessible-King Size Bed-Non Smoking)",
+    "room_desc": "",
+    "room_features": "",
+    "room_type": "0",
+    "rates_and_cancellation_policies": [{
+      "rate_plan_code": "",
+      "meal_plan_code": "1",
+      "total_amount_before_tax": "151.38",
+      "total_amount_after_tax": "173.80",
+      "currency": "USD",
+      "rates": [{
+        "check_in": "2018-08-29",
+        "check_out": "2018-08-30",
+        "rooms": 1,
+        "amount_before_tax": {
+          "night_rate": "151.38",
+          "sub_total": "151.38"
+        },
+        "amount_after_tax": {
+          "night_rate": "173.80",
+          "sub_total": "173.80"
+        }
+      }],
+      "cancellation_information": {
+        "details": [],
+        "timezone": "America\/Los_Angeles UTC-08:00"
+      },
+      "room_key": "MC4uKlY4WVhFSjhXV2lMejBUYXE4cWY1NnZ0Si9BMW55bkM3bHVDSkVzMERaZGZsOFgvMithOURFRHVtOFk0c0dqaVdiUGRNa3FHc3Q0K29jaUp6bnFzMnhma3BPSTBoalJwVzhtb0ZLVzdmay80d2c5RkJOYWNtT1FCU0YyakVFY0xub2l6TDJReXFrODBGWlQ0UzNkcXZ6NUZiYlpEUU1aYWJuMTNyeUwxeFRMeGxSMTM3blQzVkE4NUszc1BBenBpUW50aGJMdHlDMWxIUlA4aXU4ZjY1U0RUQUdjcDVXODcwSW5HK2VWQjF2bWc2b2x3bVRzNzFzUXpkT0dnWm95UWZUeEpHdzY3dVcxYz0uLio4NDQzNTEuLioxLi4qMTY0ODA0MS4uKjE1NTU=",
+      "nationality": "|",
+      "booking_limit": null,
+      "breakfast": {
+        "include": 0,
+        "count": 0
+      },
+      "meal_plan_desc": "“Room Only”, “It only includes the stay for all guests in selected room. No meals are included.”"
+    }],
+    "bed_info": null,
+    "nonsmoking": null,
+    "occupancy": null,
+    "amenities": null,
+    "room_pics": [],
+    "room_size": null,
+    "rate_supplier_id": 1500
+  }, {
+    "room_name": "客房<br \/>(Double King Bed Non Smoking)",
+    "room_desc": "",
+    "room_features": "",
+    "room_type": "0",
+    "rates_and_cancellation_policies": [{
+      "rate_plan_code": "",
+      "meal_plan_code": "3",
+      "total_amount_before_tax": "154.25",
+      "total_amount_after_tax": "177.10",
+      "currency": "USD",
+      "rates": [{
+        "check_in": "2018-08-29",
+        "check_out": "2018-08-30",
+        "rooms": 1,
+        "amount_before_tax": {
+          "night_rate": "154.25",
+          "sub_total": "154.25"
+        },
+        "amount_after_tax": {
+          "night_rate": "177.10",
+          "sub_total": "177.10"
+        }
+      }],
+      "cancellation_information": {
+        "details": [],
+        "timezone": "America\/Los_Angeles UTC-08:00"
+      },
+      "room_key": "MC4uKlY4WVhFSjhXV2lMejBUYXE4cWY1NnZ0Si9BMW55bkM3cFVRMDJPUk10VG93QlhXN1ZxbU14ZHM5VVJPbEtFZ3hpUDFlY0VqamU3OVB1Y3hJejN6ZVBZZEJpN0lCOUpYL0pKSHVHMUdBNDBTOWZicG5teDJqcGptT0tTS3p0NTZtcHhGZStwTnhvTG1QaGt5ZVMxNjVDNEhmdCtpTFNUNXBFMDMwMDUxckV2WjN5YlFRLzBWNzhVVCtad1JpYWZBM1ErS2FmV21ZSEQyYjhpV1hNL3NRMVFvTGtzTWpjQlh5TUNhMWRTekUweU9FRTZLenJsMnFOQT09Li4qODQ0MzUxLi4qMy4uKjE2NDgwNDEuLioxNTU1",
+      "nationality": "|",
+      "booking_limit": null,
+      "breakfast": {
+        "include": 1,
+        "count": -1
+      },
+      "meal_plan_desc": "breakfast and bed"
+    }],
+    "bed_info": null,
+    "nonsmoking": null,
+    "occupancy": null,
+    "amenities": null,
+    "room_pics": [],
+    "room_size": null,
+    "rate_supplier_id": 1500
+  }, {
+    "room_name": "客房<br \/>(Double Accessible-King Size Bed-Non Smoking)",
+    "room_desc": "",
+    "room_features": "",
+    "room_type": "0",
+    "rates_and_cancellation_policies": [{
+      "rate_plan_code": "",
+      "meal_plan_code": "3",
+      "total_amount_before_tax": "154.25",
+      "total_amount_after_tax": "177.10",
+      "currency": "USD",
+      "rates": [{
+        "check_in": "2018-08-29",
+        "check_out": "2018-08-30",
+        "rooms": 1,
+        "amount_before_tax": {
+          "night_rate": "154.25",
+          "sub_total": "154.25"
+        },
+        "amount_after_tax": {
+          "night_rate": "177.10",
+          "sub_total": "177.10"
+        }
+      }],
+      "cancellation_information": {
+        "details": [],
+        "timezone": "America\/Los_Angeles UTC-08:00"
+      },
+      "room_key": "MC4uKlY4WVhFSjhXV2lMejBUYXE4cWY1NnZ0Si9BMW55bkM3RzV4azZndUZ2Mis3SWFnZGplNWMwR0JvaG0rVjhCUlRxdmZsTGM1dC9DV2xQSjZnbmU2Q0owNFZKUEd6VUZtQmJRKzdiY1lXUjB4MTNCUGsrU3hIeUM4S1J6VXhuc0ZPNWUxbExTNURoUGZxNFh4ZmNoMUo0V3FzcTRONnlpb29kbnErQ0NIQmxSQ3hlK01JTytFVy9vQ3dkcFpGUC9ERG9Cak9GVWRFV1BFeGJMa0xXS2dQUEJqNWZBak9NdTRacStOTWxYTVF4UWNGSk1IU1NwK1pPWjFTYmtMVG4ybEYxQzE5b2o0aUM1bz0uLio4NDQzNTEuLiozLi4qMTY0ODA0MS4uKjE1NTU=",
+      "nationality": "|",
+      "booking_limit": null,
+      "breakfast": {
+        "include": 1,
+        "count": -1
+      },
+      "meal_plan_desc": "breakfast and bed"
+    }],
+    "bed_info": null,
+    "nonsmoking": null,
+    "occupancy": null,
+    "amenities": null,
+    "room_pics": [],
+    "room_size": null,
+    "rate_supplier_id": 1500
+  }, {
+    "room_name": "客房<br \/>(Double One King Bed)",
+    "room_desc": "",
+    "room_features": "",
+    "room_type": "0",
+    "rates_and_cancellation_policies": [{
+      "rate_plan_code": "",
+      "meal_plan_code": "1",
+      "total_amount_before_tax": "160.01",
+      "total_amount_after_tax": "183.70",
+      "currency": "USD",
+      "rates": [{
+        "check_in": "2018-08-29",
+        "check_out": "2018-08-30",
+        "rooms": 1,
+        "amount_before_tax": {
+          "night_rate": "160.01",
+          "sub_total": "160.01"
+        },
+        "amount_after_tax": {
+          "night_rate": "183.70",
+          "sub_total": "183.70"
+        }
+      }],
+      "cancellation_information": {
+        "details": [],
+        "timezone": "America\/Los_Angeles UTC-08:00"
+      },
+      "room_key": "MC4uKlY4WVhFSjhXV2lMejBUYXE4cWY1NnZ0Si9BMW55bkM3Y0YwZGtpK0VaUTlhbXhJZXplWmZQb2hmdU4yNTU4SnFQUndRSldXOGhIT2lCWkJvY3BGcVdNcnFsd05SVmc1eWI4N2dXU0ZPY2Rvcm03K2lBYXRkQTFlNlFBbURBRWh3a3d1KzdJZytlQUVBN3U0SWdZcDFrYUFyY2V0K3BoamlGQ2twV0s0SCtXVmk4R3EvM3NGcjZMcFFjMlBVQXZFaHNIMVZ4Nkt0aGtzRXJhcEpqak1hVW85RzRMaVI4Z0NRZmJIdnRIRkdvNGM9Li4qODQ0MzUxLi4qMS4uKjE2NDgwNDEuLioxNTU1",
+      "nationality": "|",
+      "booking_limit": null,
+      "breakfast": {
+        "include": 0,
+        "count": 0
+      },
+      "meal_plan_desc": "“Room Only”, “It only includes the stay for all guests in selected room. No meals are included.”"
+    }],
+    "bed_info": null,
+    "nonsmoking": null,
+    "occupancy": null,
+    "amenities": null,
+    "room_pics": [],
+    "room_size": null,
+    "rate_supplier_id": 1500
+  }, {
+    "room_name": "客房<br \/>(Double One King Bed)",
+    "room_desc": "",
+    "room_features": "",
+    "room_type": "0",
+    "rates_and_cancellation_policies": [{
+      "rate_plan_code": "",
+      "meal_plan_code": "3",
+      "total_amount_before_tax": "163.83",
+      "total_amount_after_tax": "188.10",
+      "currency": "USD",
+      "rates": [{
+        "check_in": "2018-08-29",
+        "check_out": "2018-08-30",
+        "rooms": 1,
+        "amount_before_tax": {
+          "night_rate": "163.83",
+          "sub_total": "163.83"
+        },
+        "amount_after_tax": {
+          "night_rate": "188.10",
+          "sub_total": "188.10"
+        }
+      }],
+      "cancellation_information": {
+        "details": [],
+        "timezone": "America\/Los_Angeles UTC-08:00"
+      },
+      "room_key": "MC4uKlY4WVhFSjhXV2lMejBUYXE4cWY1NnZ0Si9BMW55bkM3ZGd1M3lyRG85TTBkNm5XcjVpaWNWZlAreHhkUy9VQ2lMKzlHTDJHaHp6VTEyaWxIbGsrRjNFMFoxc2dWd0FDRjI0QWNzcEc3RGlJbHRPVzNFaVJScStvVHpnZnNjdjFOQmkwUXM0SG1ubE9HbUJRNDY4eCs5bk1acXhlOEVmdVF3ZjZiTlRCN2tkNlZ0UHNyMkF2dEJlUnNLM2Q2dDdmNGZBWkwzRmxvMDJqNXpQVXhqSnQ2SzBLR3dUL2hwNTUzZWZldWh4MWd1c1U9Li4qODQ0MzUxLi4qMy4uKjE2NDgwNDEuLioxNTU1",
+      "nationality": "|",
+      "booking_limit": null,
+      "breakfast": {
+        "include": 1,
+        "count": -1
+      },
+      "meal_plan_desc": "breakfast and bed"
+    }],
+    "bed_info": null,
+    "nonsmoking": null,
+    "occupancy": null,
+    "amenities": null,
+    "room_pics": [],
+    "room_size": null,
+    "rate_supplier_id": 1500
+  }, {
+    "room_name": "客房<br \/>(Standard)",
+    "room_desc": "Standard Room, 2 Queen Beds",
+    "room_features": "Standard Room, 2 Queen Beds",
+    "room_type": "SB",
+    "rates_and_cancellation_policies": [{
+      "rate_plan_code": "VIPDIS",
+      "meal_plan_code": "RO",
+      "total_amount_before_tax": "176.29",
+      "total_amount_after_tax": "202.39",
+      "currency": "USD",
+      "rates": [{
+        "check_in": "2018-08-29",
+        "check_out": "2018-08-30",
+        "rooms": 1,
+        "amount_before_tax": {
+          "night_rate": "176.29",
+          "sub_total": "176.29"
+        },
+        "amount_after_tax": {
+          "night_rate": "202.39",
+          "sub_total": "202.39"
+        }
+      }],
+      "cancellation_information": {
+        "support_cancel": "yes",
+        "non_refundable": "yes",
+        "details": [{
+          "datetime": "2018-08-26T00:00:00",
+          "fee_type_value": "202.39",
+          "fee_type": "total_amount",
+          "amount_penalty": "202.39",
+          "policy_code": "CXP"
+        }, {
+          "fee_type_value": "202.39",
+          "fee_type": "total_amount",
+          "amount_penalty": "202.39",
+          "policy_code": "CNS"
+        }],
+        "timezone": "America\/Los_Angeles UTC-08:00"
+      },
+      "room_key": "MTA0MmRjXzU0MTE4NTQzOTU5ODk3XzFfMTFfMl8yXzBfMF8xMjAzMjgxNTA0XzBfMC0wLTBfMS0xMDAuMjAxODA4MjlfMV8xXzBfNDdfZDVlZmNmZDJjYzRiNGQ1Yzg0ZDk5NDhlNDE2MjI2YzFfLi4qcmVzZXJ2ZWQuLio3MTAxNjg=",
+      "nationality": "|",
+      "booking_limit": null,
+      "breakfast": {
+        "include": 0,
+        "count": 0
+      },
+      "meal_plan_desc": ""
+    }],
+    "bed_info": null,
+    "nonsmoking": null,
+    "occupancy": null,
+    "amenities": null,
+    "room_pics": [],
+    "room_size": null,
+    "rate_supplier_id": 1011
+  }, {
+    "room_name": "客房<br \/>(Standard)",
+    "room_desc": "Standard Room, 1 King Bed, Non Smoking",
+    "room_features": "Standard Room, 1 King Bed, Non Smoking",
+    "room_type": "SB",
+    "rates_and_cancellation_policies": [{
+      "rate_plan_code": "VIPDIS",
+      "meal_plan_code": "RO",
+      "total_amount_before_tax": "187.02",
+      "total_amount_after_tax": "214.72",
+      "currency": "USD",
+      "rates": [{
+        "check_in": "2018-08-29",
+        "check_out": "2018-08-30",
+        "rooms": 1,
+        "amount_before_tax": {
+          "night_rate": "187.02",
+          "sub_total": "187.02"
+        },
+        "amount_after_tax": {
+          "night_rate": "214.72",
+          "sub_total": "214.72"
+        }
+      }],
+      "cancellation_information": {
+        "support_cancel": "yes",
+        "non_refundable": "yes",
+        "details": [{
+          "datetime": "2018-08-26T00:00:00",
+          "fee_type_value": "214.72",
+          "fee_type": "total_amount",
+          "amount_penalty": "214.72",
+          "policy_code": "CXP"
+        }, {
+          "fee_type_value": "214.72",
+          "fee_type": "total_amount",
+          "amount_penalty": "214.72",
+          "policy_code": "CNS"
+        }],
+        "timezone": "America\/Los_Angeles UTC-08:00"
+      },
+      "room_key": "MTA0MmRjXzU0MTIzNDkyMDg3MjQ1XzFfMTFfMl8yXzBfMF8yOTMwNDUyNDc3XzFfMC0wLTBfMS0xMDAuMjAxODA4MjlfMV8xXzBfNDdfZDVlZmNmZDJjYzRiNGQ1Yzg0ZDk5NDhlNDE2MjI2YzFfLi4qcmVzZXJ2ZWQuLio3MTAxNjg=",
+      "nationality": "|",
+      "booking_limit": null,
+      "breakfast": {
+        "include": 0,
+        "count": 0
+      },
+      "meal_plan_desc": ""
+    }],
+    "bed_info": null,
+    "nonsmoking": null,
+    "occupancy": null,
+    "amenities": null,
+    "room_pics": [],
+    "room_size": null,
+    "rate_supplier_id": 1011
+  }, {
+    "room_name": "客房<br \/>(Standard)",
+    "room_desc": "Room, 1 King Bed, Accessible, Bathtub",
+    "room_features": "Room, 1 King Bed, Accessible, Bathtub",
+    "room_type": "SB",
+    "rates_and_cancellation_policies": [{
+      "rate_plan_code": "VIPDIS",
+      "meal_plan_code": "RO",
+      "total_amount_before_tax": "187.02",
+      "total_amount_after_tax": "214.72",
+      "currency": "USD",
+      "rates": [{
+        "check_in": "2018-08-29",
+        "check_out": "2018-08-30",
+        "rooms": 1,
+        "amount_before_tax": {
+          "night_rate": "187.02",
+          "sub_total": "187.02"
+        },
+        "amount_after_tax": {
+          "night_rate": "214.72",
+          "sub_total": "214.72"
+        }
+      }],
+      "cancellation_information": {
+        "support_cancel": "yes",
+        "non_refundable": "yes",
+        "details": [{
+          "datetime": "2018-08-26T00:00:00",
+          "fee_type_value": "214.72",
+          "fee_type": "total_amount",
+          "amount_penalty": "214.72",
+          "policy_code": "CXP"
+        }, {
+          "fee_type_value": "214.72",
+          "fee_type": "total_amount",
+          "amount_penalty": "214.72",
+          "policy_code": "CNS"
+        }],
+        "timezone": "America\/Los_Angeles UTC-08:00"
+      },
+      "room_key": "MTA0MmRjXzU0MTIzNDIzOTUyOTAyXzFfMTFfMl8yXzBfMF8yNzIzODg5NzE4XzJfMC0wLTBfMS0xMDAuMjAxODA4MjlfMV8xXzBfNDdfZDVlZmNmZDJjYzRiNGQ1Yzg0ZDk5NDhlNDE2MjI2YzFfLi4qcmVzZXJ2ZWQuLio3MTAxNjg=",
+      "nationality": "|",
+      "booking_limit": null,
+      "breakfast": {
+        "include": 0,
+        "count": 0
+      },
+      "meal_plan_desc": ""
+    }],
+    "bed_info": null,
+    "nonsmoking": null,
+    "occupancy": null,
+    "amenities": null,
+    "room_pics": [],
+    "room_size": null,
+    "rate_supplier_id": 1011
+  }, {
+    "room_name": "客房<br \/>(Standard)",
+    "room_desc": "Room, 1 King Bed, Non Smoking",
+    "room_features": "Room, 1 King Bed, Non Smoking",
+    "room_type": "SB",
+    "rates_and_cancellation_policies": [{
+      "rate_plan_code": "VIPDIS",
+      "meal_plan_code": "RO",
+      "total_amount_before_tax": "197.78",
+      "total_amount_after_tax": "227.07",
+      "currency": "USD",
+      "rates": [{
+        "check_in": "2018-08-29",
+        "check_out": "2018-08-30",
+        "rooms": 1,
+        "amount_before_tax": {
+          "night_rate": "197.78",
+          "sub_total": "197.78"
+        },
+        "amount_after_tax": {
+          "night_rate": "227.07",
+          "sub_total": "227.07"
+        }
+      }],
+      "cancellation_information": {
+        "support_cancel": "yes",
+        "non_refundable": "yes",
+        "details": [{
+          "datetime": "2018-08-26T00:00:00",
+          "fee_type_value": "227.07",
+          "fee_type": "total_amount",
+          "amount_penalty": "227.07",
+          "policy_code": "CXP"
+        }, {
+          "fee_type_value": "227.07",
+          "fee_type": "total_amount",
+          "amount_penalty": "227.07",
+          "policy_code": "CNS"
+        }],
+        "timezone": "America\/Los_Angeles UTC-08:00"
+      },
+      "room_key": "MTA0MmRjXzU1MTgyNzY3MTE5NTY5XzFfMTFfMl8yXzBfMF8xODU5NTI0ODJfM18wLTAtMF8xLTEwMC4yMDE4MDgyOV8xXzFfMF80N19kNWVmY2ZkMmNjNGI0ZDVjODRkOTk0OGU0MTYyMjZjMV8uLipyZXNlcnZlZC4uKjcxMDE2OA==",
+      "nationality": "|",
+      "booking_limit": null,
+      "breakfast": {
+        "include": 0,
+        "count": 0
+      },
+      "meal_plan_desc": ""
+    }],
+    "bed_info": null,
+    "nonsmoking": null,
+    "occupancy": null,
+    "amenities": null,
+    "room_pics": [],
+    "room_size": null,
+    "rate_supplier_id": 1011
+  }]
+}

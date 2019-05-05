@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.example.qichaoqun.mobileplayer.view.TitleBar
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:paddingTop="3dp"
+    android:background="@color/blue">
+
+    <ImageView
+        android:layout_width="70dp"
+        android:layout_height="50dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginBottom="6dp"
+        android:src="@drawable/youtube4"/>
+
+    <LinearLayout
+        android:id="@+id/video_search"
+        android:layout_weight="1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="11dp"
+        android:paddingTop="5dp"
+        android:layout_marginTop="2dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_weight="1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="5dp"
+            android:text="全网搜索"
+            android:textSize="14sp"
+            android:drawablePadding="3dp"
+            android:background="@drawable/search_background_selector"
+            android:textColor="@drawable/search_text_color"
+            android:drawableLeft="@drawable/search_left_selector"/>
+
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/video_game"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="7dp">
+
+        <ImageView
+            android:id="@+id/game_text"
+            android:layout_width="28dp"
+            android:layout_height="28dp"
+            android:src="@drawable/game"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/dot_shap"
+            android:layout_alignRight="@+id/game_text"/>
+    </RelativeLayout>
+
+    <ImageView
+        android:id="@+id/video_history"
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:layout_marginLeft="6dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginRight="8dp"
+        android:src="@drawable/history"/>
+
+</com.example.qichaoqun.mobileplayer.view.TitleBar>
